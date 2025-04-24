@@ -18,7 +18,7 @@ Official tool developed by Feni Cyber Force (FCF) — made for automating Termux
 ## 📦 Installation (via Termux)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fcf-termux-tool.git
+git clone https://github.com/fenicyberforce/fcf-termux-tool.git
 cd fcf-termux-tool
 chmod +x fcf_kire_final.sh
 bash fcf_kire_final.sh
